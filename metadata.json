@@ -1,0 +1,6 @@
+{
+  "name": "Project Expense Tracker",
+  "description": "Track, manage, and analyze project expenses with local offline storage, dynamic category summaries, and real-time financial reporting in Indian Rupees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
