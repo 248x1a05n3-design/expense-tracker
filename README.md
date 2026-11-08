@@ -23,7 +23,7 @@ User-created data saved on the device with `shared_preferences` (JSON). No API a
 |---|---|
 | 248x1a05n3-design |  Form screen and validation |
 | 248x1a05n4-design |  Data service, Provider store |
-| 248x1a05l1-design |  List, detail and summary screens, theme |
+| 248x1a05l1-design. |  List, detail and summary screens, theme |
 
 ## Project structure
 ```
